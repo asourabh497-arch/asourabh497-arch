@@ -45,7 +45,7 @@
 ---
 
 ### 📬 Connect With Me
-- 💼 **LinkedIn:** [www.linkedin.com/in/sourabhhguptaa](https://linkedin.com)
+- 💼 **LinkedIn:** [www.linkedin.com/in/sourabhhguptaa/](https://linkedin.com)
 - 📧 **Email:** [asourabh497@gmail.com](mailto:asourabh497@gmail.com)
 - 🌐 **Portfolio / Resume:** [Link to Resume/Website](#)!--
 **asourabh497-arch/asourabh497-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
